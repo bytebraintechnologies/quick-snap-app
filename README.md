@@ -30,6 +30,9 @@ release. Portable previews are intended for users who understand these platform 
 - Draw over the live or frozen desktop with the screen pen.
 - Export PNG, JPEG, WebP, PDF, and clipboard-ready images.
 
+See the complete [Quick Snap feature catalog](FEATURES.md), including capture modes, editor tools,
+screen pen, recording, export formats, shortcuts, and platform support.
+
 ## Installing a portable preview
 
 1. Open the latest release.
