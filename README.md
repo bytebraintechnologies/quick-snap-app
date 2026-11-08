@@ -8,8 +8,10 @@ application.
 ### Recommended on Windows: Microsoft Store
 
 Use Microsoft Store for the trusted Windows production installation. Microsoft signs the package
-and delivers updates automatically. The direct Store link will be added here when the listing is
-live.
+and delivers updates automatically.
+
+- [Install Quick Snap from Microsoft Store](https://apps.microsoft.com/detail/9NQKTDS7CBGW)
+- Store ID: `9NQKTDS7CBGW`
 
 ### Portable previews
 
